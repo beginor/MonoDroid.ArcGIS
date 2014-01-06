@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBinding", "AndroidBinding\AndroidBinding.csproj", "{B8185C13-333F-4EC3-93E0-AF5FAC8B1030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidTest", "AndroidTest\AndroidTest.csproj", "{67657A8F-E5D7-47FC-B5D3-1204F483DEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67657A8F-E5D7-47FC-B5D3-1204F483DEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67657A8F-E5D7-47FC-B5D3-1204F483DEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67657A8F-E5D7-47FC-B5D3-1204F483DEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67657A8F-E5D7-47FC-B5D3-1204F483DEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8185C13-333F-4EC3-93E0-AF5FAC8B1030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8185C13-333F-4EC3-93E0-AF5FAC8B1030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8185C13-333F-4EC3-93E0-AF5FAC8B1030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8185C13-333F-4EC3-93E0-AF5FAC8B1030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AndroidTest\AndroidTest.csproj
+	EndGlobalSection
+EndGlobal
